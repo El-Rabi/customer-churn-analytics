@@ -1,0 +1,10 @@
+analysis,contract_type,customers,churn_rate,avg_monthly_charges,support_ticket_band,tenure_band
+churn_by_contract,month-to-month,1692,0.3138,63.57,,
+churn_by_contract,one-year,725,0.131,63.96,,
+churn_by_contract,two-year,583,0.0635,64.47,,
+churn_by_support_demand,,329,0.3465,,3+,
+churn_by_support_demand,,1747,0.2221,,1-2,
+churn_by_support_demand,,924,0.1742,,0,
+churn_by_tenure,,436,0.2982,,,0-12 months
+churn_by_tenure,,1415,0.2509,,,13-36 months
+churn_by_tenure,,1149,0.1549,,,37+ months
